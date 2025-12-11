@@ -1,0 +1,40 @@
+# MATLAB backup and autosave files
+*.asv
+*.m~
+*.mlx~
+
+# Simulink autosave and cache
+*.slxc
+*.slx.autosave
+*.mdl.autosave
+*.autosave
+
+# Simulink code generation (optional)
+slprj/
+sccprj/
+codegen/
+*_ert_rtw/
+
+# MATLAB cache
+matlabprefs.mat
+history.m
+
+# Temporary files
+*.err
+*.log
+*.bak
+*.tmp
+
+# Figures or outputs you auto-generate (optional)
+*.fig
+*.mat
+*.gif
+*.png
+*.jpg
+
+# Windows junk
+Thumbs.db
+desktop.ini
+
+# macOS junk
+.DS_Store
